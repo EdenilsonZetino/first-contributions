@@ -18,6 +18,7 @@ pnordboj
 - [Azizbek Yunusalliev 'Hi! from Uzbekistan'](https://github.com/azick99)
 - [Joshua](https://github.com/Joshua-Dias-Barreto)
 - [ZhijunWang1991](https://github.com/ZhijunWang1991)
+- [EdenilsonZetino](https://github.com/EdenilsonZetino) 
 - [Gatien Gnakou-Edjambo](https://github.com/princinho)
 - [Dominic Bluawofogbe](https://github.com/Dominic2000code)
 - [TrueJu](https://github.com/TrueJu)
